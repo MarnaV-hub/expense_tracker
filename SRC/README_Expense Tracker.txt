@@ -27,7 +27,7 @@ expense_tracker
 │   ├── budget.py        # Functions to manage budgets
 │   └── goals.py         # Manages financial goals
 ├── requirements.txt     # Lists project dependencies
-└── README.md            # Documentation for the project
+└── README.txt            # Documentation for the project
 ```
 
 ## Installation
